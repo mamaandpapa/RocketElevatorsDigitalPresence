@@ -1,0 +1,10 @@
+﻿#mainDiv {padding-top:1px;padding-left:50px;}
+			
+#mainDiv h1{margin-bottom:50px;}
+.boxWidth{width: 150px;}
+
+.form-control::-webkit-input-placeholder { color: red;font-size: 9pt }  /* WebKit, Blink, Edge */
+.form-control:-moz-placeholder { color: red; }  /* Mozilla Firefox 4 to 18 */
+.form-control::-moz-placeholder { color: red; }  /* Mozilla Firefox 19+ */
+.form-control:-ms-input-placeholder { color: red; }  /* Internet Explorer 10-11 */
+.form-control::-ms-input-placeholder { color: red; }  /* Microsoft Edge */
